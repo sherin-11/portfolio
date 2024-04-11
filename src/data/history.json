@@ -1,0 +1,28 @@
+[
+  {
+    "role": "cs association web team",
+    "organisation": "cs association, CET",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked as a web team member"],
+    "imageSrc": "history/cs.png"
+  },
+  {
+    "role": "IEEE Tech team",
+    "organisation": "IEEE",
+    "startDate": "Jan, 2024",
+    "endDate": "present",
+    "experiences": ["Worked as a tech team member"],
+    "imageSrc": "history/ieee.png"
+  },
+  {
+    "role": "Tech Team",
+    "organisation": "GDSC",
+    "startDate": "Mar, 2024",
+    "endDate": "present",
+    "experiences": [
+      "Worked as a tech team member"
+    ],
+    "imageSrc": "history/gdsc.png"
+  }
+]
